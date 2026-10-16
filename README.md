@@ -1,0 +1,20 @@
+# Quatre Champs : images libres (CC0)
+
+Images du jeu de stratégie médiéval **Quatre Champs** (jeu par navigateur inspiré des jeux de gestion de villages). Elles sont **libres et gratuites pour tous**, y compris pour un usage commercial, sans obligation de citer la source (licence **CC0 1.0**, domaine public). Un lien vers ce dépôt fait toujours plaisir.
+
+| Dossier | Contenu | Origine |
+|---|---|---|
+| `batiments/` | 28 bâtiments isométriques sur fond transparent (bâtiment principal, caserne, écurie, marché, palais, merveille…) | **Générés par intelligence artificielle** (Canva), détourés |
+| `champs/` | Champs de ressources (bois, argile, fer, céréales), 4 stades | Peints par programme |
+| `icones/` | Icônes de ressources | Peintes par programme |
+| `fonds/` | Fonds de pages et du village | Peints par programme |
+
+Aperçu : `apercu_batiments.png`.
+
+**Transparence :** les images du dossier `batiments/` ont été créées par une IA. Merci de ne pas les présenter comme dessinées à la main.
+
+---
+
+# Quatre Champs: free images (CC0)
+
+Images from the medieval strategy browser game **Quatre Champs**. **Free for everyone**, including commercial use, no attribution required (**CC0 1.0**, public domain). The `batiments/` (buildings) images are **AI-generated** (Canva) and cut out on a transparent background; please do not present them as hand-drawn. The other folders were painted procedurally.
