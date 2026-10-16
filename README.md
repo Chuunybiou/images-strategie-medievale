@@ -8,16 +8,19 @@ Images du jeu de stratégie médiéval **Quatre Champs** (jeu par navigateur ins
 | `unites/` | 40 unités (Romains, Gaulois, Germains, Natars) : `u2_<peuple>_<n°>.png` | **Générées par IA** (Canva), détourées |
 | `heros/` | 3 héros (un par peuple) | **Générés par IA** (Canva), détourés |
 | `carte/` | Icônes de carte : villages (3 tailles), oasis (4), forteresse, merveille, trésor, aventure | **Générées par IA** (Canva), détourées |
+| `objets/` | 20 objets du héros (casques, armes, armures, bottes, monture, consommables, pièce d’argent) | **Générés par IA** (Canva), détourés |
+| `animaux/` | 10 animaux des oasis | **Générés par IA** (Canva), détourés |
+| `terrains/` | 7 textures de carte raccordables (herbe, forêt, mer, jungle, désert, neige, toundra) | **Générées par IA** (Canva), rendues raccordables |
 | `champs/` | Champs de ressources (bois, argile, fer, céréales), 4 stades | Peints par programme |
 | `icones/` | Icônes de ressources | Peintes par programme |
 | `fonds/` | Fonds de pages et du village | Peints par programme |
 
-Aperçus : `apercu_batiments.png`, `apercu_unites.png`, `apercu_heros_carte.png`.
+Aperçus : `apercu_batiments.png`, `apercu_unites.png`, `apercu_heros_carte.png`, `apercu_objets_animaux.png`, `apercu_terrains.png`.
 
-**Transparence :** les images des dossiers `batiments/`, `unites/`, `heros/` et `carte/` ont été créées par une IA. Merci de ne pas les présenter comme dessinées à la main.
+**Transparence :** les images des dossiers `batiments/`, `unites/`, `heros/`, `carte/`, `objets/`, `animaux/` et `terrains/` ont été créées par une IA. Merci de ne pas les présenter comme dessinées à la main.
 
 ---
 
 # Quatre Champs: free images (CC0)
 
-Images from the medieval strategy browser game **Quatre Champs**. **Free for everyone**, including commercial use, no attribution required (**CC0 1.0**, public domain). The `batiments/` (buildings), `unites/` (units), `heros/` (heroes) and `carte/` (map) images are **AI-generated** (Canva) and cut out on a transparent background; please do not present them as hand-drawn. The other folders were painted procedurally.
+Images from the medieval strategy browser game **Quatre Champs**. **Free for everyone**, including commercial use, no attribution required (**CC0 1.0**, public domain). The `batiments/` (buildings), `unites/` (units), `heros/` (heroes), `carte/` (map), `objets/` (items), `animaux/` (animals) and `terrains/` (terrain) images are **AI-generated** (Canva) and cut out on a transparent background; please do not present them as hand-drawn. The other folders were painted procedurally.
