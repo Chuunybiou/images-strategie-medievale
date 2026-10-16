@@ -1,6 +1,6 @@
 # Images de jeu de stratégie médiéval libres (CC0)
 
-Plus de 160 images de jeu de stratégie médiéval, **libres et gratuites pour tous**, y compris pour un usage commercial, sans obligation de citer la source : licence **CC0 1.0** (domaine public). Elles viennent d’un jeu de stratégie par navigateur en cours de création (il n’a pas encore de nom). Un lien vers ce dépôt fait toujours plaisir.
+Plus de 165 images de jeu de stratégie médiéval, **libres et gratuites pour tous**, y compris pour un usage commercial, sans obligation de citer la source : licence **CC0 1.0** (domaine public). Elles viennent d’un jeu de stratégie par navigateur en cours de création (il n’a pas encore de nom). Un lien vers ce dépôt fait toujours plaisir.
 
 ## Contenu
 
@@ -8,7 +8,7 @@ Plus de 160 images de jeu de stratégie médiéval, **libres et gratuites pour t
 |---|---|---|---|
 | `batiments/` | Bâtiments isométriques sur fond transparent : bâtiment principal, caserne, écurie, marché, palais, merveille… et un centre de village complet | 29 | Générés par IA (Canva), détourés |
 | `unites/` | Unités de 4 peuples (Romains, Gaulois, Germains, Natars), nommées `u2_<peuple>_<n°>.png` | 40 | Générées par IA (Canva), détourées |
-| `heros/` | Un héros par peuple | 3 | Générés par IA (Canva), détourés |
+| `heros/` | Héros des 3 peuples, 3 portraits chacun : classique, héroïne, vétéran (`h_<peuple>`, `_f`, `_o`) | 9 | Générés par IA (Canva), détourés |
 | `objets/` | Équipement du héros (casques, armes, armures, bottes, monture), consommables, pièce d’argent | 20 | Générés par IA (Canva), détourés |
 | `animaux/` | Animaux des oasis, du rat à l’éléphant | 10 | Générés par IA (Canva), détourés |
 | `carte/` | Icônes de carte : villages (3 tailles), oasis (4), forteresse, merveille, trésor, aventure | 11 | Générées par IA (Canva), détourées |
@@ -29,6 +29,10 @@ Formats : PNG à fond transparent (sauf terrains et fonds), environ 200 px de c�
 **Unités**
 
 ![Unités](apercu_unites.png)
+
+**Héros (9 portraits)**
+
+![Héros](apercu_heros.png)
 
 **Héros et icônes de carte**
 
@@ -54,8 +58,8 @@ Les images des dossiers `batiments/`, `unites/`, `heros/`, `objets/`, `animaux/`
 
 # Free medieval strategy game images (CC0)
 
-More than 160 medieval strategy game images, **free for everyone**, including commercial use, no attribution required (**CC0 1.0**, public domain). They come from a browser strategy game in the making (it has no name yet).
+More than 165 medieval strategy game images, **free for everyone**, including commercial use, no attribution required (**CC0 1.0**, public domain). They come from a browser strategy game in the making (it has no name yet).
 
-Contents: 29 isometric buildings (including a full village centre), 6 navigation icons, 40 units (Romans, Gauls, Teutons, Natars), 3 heroes, 20 hero items, 10 oasis animals, 11 map icons, 7 seamless terrain textures, plus resource fields, icons and backgrounds.
+Contents: 29 isometric buildings (including a full village centre), 6 navigation icons, 40 units (Romans, Gauls, Teutons, Natars), 9 hero portraits (3 per tribe: classic, heroine, veteran), 20 hero items, 10 oasis animals, 11 map icons, 7 seamless terrain textures, plus resource fields, icons and backgrounds.
 
 The buildings, units, heroes, items, animals, map icons and terrain textures are **AI-generated** (Canva); please do not present them as hand-drawn. The other folders were painted procedurally.
