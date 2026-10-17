@@ -6,12 +6,12 @@ Plus de 170 images de jeu de stratégie médiéval, **libres et gratuites pour t
 
 | Dossier | Contenu | Nombre | Origine |
 |---|---|---|---|
-| `batiments/` | Bâtiments isométriques sur fond transparent : bâtiment principal, caserne, écurie, marché, palais, merveille… et un centre de village complet | 29 | Générés par IA (Canva), détourés, **HD 360 px** |
+| `batiments/` | Bâtiments isométriques sur fond transparent : bâtiment principal, caserne, écurie, marché, palais, merveille… et un centre de village complet | 30 | Générés par IA (Canva), détourés, **HD 360 px** (dont le port `b_harbor`) |
 | `unites/` | Unités de 4 peuples (Romains, Gaulois, Germains, Natars), nommées `u2_<peuple>_<n°>.png` | 40 | Générées par IA (Canva), détourées, **HD 320 px** |
 | `heros/` | Héros des 3 peuples, 3 portraits chacun : classique, héroïne, vétéran (`h_<peuple>`, `_f`, `_o`) | 9 | Générés par IA (Canva), détourés, **HD 420 px** |
 | `objets/` | Équipement du héros (casques, armes, armures, bottes, monture), consommables, pièce d’argent | 20 | Générés par IA (Canva), détourés |
 | `animaux/` | Animaux des oasis, du rat à l’éléphant | 10 | Générés par IA (Canva), détourés |
-| `carte/` | Icônes de carte : villages (3 tailles), oasis (4), forteresse, merveille, trésor, aventure | 11 | Générées par IA (Canva), détourées, **HD 260 px** |
+| `carte/` | Icônes de carte : villages (3 tailles), oasis (4), forteresse, merveille, trésor, aventure | 12 | Générées par IA (Canva), détourées, **HD 260 px** (dont le port gardé `m_port`) |
 | `terrains/` | Textures de carte raccordables : herbe, forêt, mer, jungle, désert, neige, toundra | 7 | Générées par IA (Canva), rendues raccordables |
 | `interface/` | Icônes de navigation peintes : champs, village, carte, classement, rapports, alliance | 6 | Générées par IA (Canva), détourées |
 | `champs/` | Champs de ressources (bois, argile, fer, céréales), 4 stades | 16 | Peints par programme |
